@@ -62,6 +62,17 @@ I built a populated example event with fictional people and sample content. Memb
 
 **The tradeoff:** The example is temporary and deliberately bounded. It cannot invite other people or change a real event.
 
+## Engineering depth
+
+**131,720 lines of application source** across 999 files, plus **174,355 lines of tests and test support** across 1,069 files.
+
+Saved coverage report (Oct 19, 2026): **100% statements, branches, functions, and lines** for the measured executable source.
+
+Source sizes measured October 19, 2026. Physical lines include comments and blanks; dependencies, generated output, assets, and lockfiles are excluded. Documentation and tooling are separate. Coverage uses its own configured source scope and report date.
+
+[Measurement details](https://carsonmcrae.github.io/picpledge/#engineering)
+
+
 ## Delivery scope
 
 - Accounts, invitations, and event membership
@@ -82,6 +93,8 @@ This repository presents the product case study. Application source remains priv
 ## Explore the work
 
 [Product walkthrough](https://carsonmcrae.github.io/picpledge/#walkthrough)
+
+
 
 [A decision I changed](https://carsonmcrae.github.io/picpledge/#iteration)
 
