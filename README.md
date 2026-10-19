@@ -79,6 +79,12 @@ The web product was used live at my wedding. The repository also contains iOS an
 
 This repository presents the product case study. Application source remains private.
 
+## Explore the work
+
+[Product walkthrough](https://carsonmcrae.github.io/picpledge/#walkthrough)
+
+[A decision I changed](https://carsonmcrae.github.io/picpledge/#iteration)
+
 ## More work
 
 [Carson McRae](https://carsonmcrae.github.io/) · [GitHub](https://github.com/carsonmcrae) · [LinkedIn](https://www.linkedin.com/in/carsonmcrae/)
